@@ -61,7 +61,7 @@ This task successfully demonstrated real-time network packet capturing and proto
 
 # 1. What is Wireshark used for?
 
-Wireshark is a **network protocol analyzer** used to:
+Wireshark is a network protocol analyzer used to:
 * Capture live network traffic
 * Inspect individual data packets in detail
 * Troubleshoot network issues
@@ -74,7 +74,7 @@ Wireshark is a **network protocol analyzer** used to:
   *Header: Info like source, destination, and protocol
   *Payload The actual data (e.g., part of a web page)
 
-# 3. **How to filter packets in Wireshark?**
+# 3. How to filter packets in Wireshark?
   You can filter packets using the **top filter bar** in Wireshark. Some common filters:
   * `http` – shows only HTTP traffic
   * `dns` – shows DNS queries and responses
